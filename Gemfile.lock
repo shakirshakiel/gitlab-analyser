@@ -1,0 +1,20 @@
+GEM
+  specs:
+    gitlab (4.5.0)
+      httparty (>= 0.14.0)
+      terminal-table (>= 1.5.1)
+    httparty (0.16.2)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.6.0)
+    terminal-table (1.8.0)
+      unicode-display_width (~> 1.1, >= 1.1.1)
+    unicode-display_width (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gitlab
+
+BUNDLED WITH
+   1.16.2
